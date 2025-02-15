@@ -1,9 +1,30 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
 
-Currently, two official plugins are available:
+This is a test project for a company interview. It is built by using React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# blinkworx-frontend
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```sh
+git clone https://github.com/soorajas1210/blinkworx-frontend.git
+nmp install
+
+```
+
+#### .env
+
+create a .env file in the root of the repository
+with the following
+
+VITE_BASE_URL=https://localhost:5000/api
+
+#### Run the code
+
+```sh
+npm run dev
+```
