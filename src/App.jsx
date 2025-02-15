@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import OrderManagement from './pages/OrderManagement'
 import NewOrder from './pages/NewOrder'
-import Layout from './components/layout/layout'
+import Layout from './components/layout/Layout'
 import { Toaster } from "react-hot-toast"
 import EditOrder from './pages/EditOrder'
 
